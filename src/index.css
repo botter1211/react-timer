@@ -54,11 +54,10 @@ p {
   box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px,
     rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
 }
-.timer__display {
-  padding-left: 1.5em;
-}
+
 .timer__display > p {
   font-size: 5em;
+  text-align: center;
 }
 
 .button__wrapper {
